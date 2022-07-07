@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+}
+
+header img {
+    width: 150px;
+}
+
+header {
+    background-color: brown;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+}
+
+h2 {
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    margin: 0px;
+}
+
+main {
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: beige;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+main a {
+    color: grey;
+}
+
+.team {
+    margin-top: 20px;
+}
+
+div img {
+    width: 100px;
+}
+
+.position {
+    font-weight: 700;
+}
+
+div {
+    border: 3px solid brown;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+footer p {
+    margin: 0px;
+}
